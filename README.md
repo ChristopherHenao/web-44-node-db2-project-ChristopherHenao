@@ -36,6 +36,9 @@ The critical information for each car is the vin, make, model, and mileage. They
   - `getById` resolves to a car record by the given id
   - `create` resolves to the newly created car record
 
+
+  
+
 #### Write Middleware
 
 - Write the following middlewares inside `api/cars/cars-middleware.js`:
